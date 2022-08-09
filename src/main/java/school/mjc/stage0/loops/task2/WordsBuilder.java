@@ -7,6 +7,6 @@ public class WordsBuilder {
             System.out.print(chars[count]);
             count++;
         }
-
     }
+
 }
